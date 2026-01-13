@@ -1,11 +1,16 @@
 # CrocsList
 
+![Listings](public/crocsList.gif)
+
+![Chat](public/chat.gif)
+
 ## Table of Contents
 
 - [Summary](#summary)
 - [Motivation](#motivation)
 - [Requirements](#requirements)
 - [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
 - [Quick Start](#quick-start)
 - [Features](#features)
 - [API Endpoints](#api-endpoints)
@@ -40,6 +45,11 @@ CrocsList was developed as a collaboration between 11 developers to demonstrate 
 
 **Backend:**
 
+- TypeScript (AWS CDK infrastructure)
+- Python (Lambda functions)
+
+**Cloud Infrastructure:**
+
 - AWS CDK (TypeScript)
 - AWS Lambda (Python)
 - Amazon DynamoDB
@@ -52,6 +62,10 @@ CrocsList was developed as a collaboration between 11 developers to demonstrate 
 - AWS Secrets Manager
 - AWS Location Services
 - AWS Organizations
+
+## Architecture
+
+<img src="./public/architecture.png" alt="System Architecture Diagram" width="800"/>
 
 ## Quick Start
 
@@ -405,3 +419,11 @@ Backend Team
 - Aaron Lo
 - Patricia Lo
 - Ian Chan
+
+## Gallery
+
+<img src="./public/crocsListings.png" alt="Item listings" width="700"/>
+
+<img src="./public/crocsList.png" alt="Item details" width="700"/>
+
+<img src="./public/messages.png" alt="Item details" width="700"/>
