@@ -2,8 +2,6 @@
 
 ![Listings](public/crocsList.gif)
 
-![Chat](public/chat.gif)
-
 ## Table of Contents
 
 - [Summary](#summary)
