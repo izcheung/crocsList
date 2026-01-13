@@ -14,6 +14,7 @@
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
+- [Gallery](#gallery)
 
 ## Summary
 
